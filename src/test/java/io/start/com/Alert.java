@@ -26,7 +26,7 @@ public void startApp() throws MalformedURLException, InterruptedException
 public void checkAlert() throws InterruptedException
 {
 	
-System.out.println(driver.getPageSource());
+//System.out.println(driver.findElements(By.className("android.webkit.WebView")).size());
 
 
 }

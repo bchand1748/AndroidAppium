@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43102" started-at="2015-09-11T16:29:24Z" finished-at="2015-09-11T16:30:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43102" started-at="2015-09-11T16:29:24Z" finished-at="2015-09-11T16:30:07Z">
+      <class name="io.start.com.Alert">
+        <test-method status="PASS" signature="startApp()[pri:0, instance:io.start.com.Alert@4ec6a292]" name="startApp" is-config="true" duration-ms="42730" started-at="2015-09-11T12:29:24Z" finished-at="2015-09-11T12:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="checkAlert()[pri:0, instance:io.start.com.Alert@4ec6a292]" name="checkAlert" duration-ms="354" started-at="2015-09-11T12:30:07Z" finished-at="2015-09-11T12:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlert -->
+      </class> <!-- io.start.com.Alert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
